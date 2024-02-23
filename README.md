@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaysen Pajarillo @kaysenp
 - 👀 I’m interested in habitat conservation and sustainability.
-- 🌱 I’m currently learning ArcGIS, MATLAB, and R.
+- 🌱 I’m currently learning ArcGIS, MATLAB, and Python.
 - 💞️ I’m looking to collaborate on GIS projects.
 - 📫 Connect with me on LinkedIn (www.linkedin.com/in/kaysenpajarillo) or email me at ksun.pajarillo@gmail.com
 - 😄 Pronouns: she/her/they
