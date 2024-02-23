@@ -2,7 +2,7 @@
 - 👀 I’m interested in conservation work and sustainability
 - 🌱 I’m currently learning ArcGIS, MATLAB, and R.
 - 💞️ I’m looking to collaborate on GIS projects.
-- 📫 How to reach me: LinkedIn: www.linkedin.com/in/kaysenpajarillo Email: Ksun.pajarillo@gmail.com
+- 📫 Connect with me on LinkedIn (www.linkedin.com/in/kaysenpajarillo) or email me at ksun.pajarillo@gmail.com
 - 😄 Pronouns: she/her/they
 - ⚡ Fun fact: I have two cats, Tuna and Bear!
 
